@@ -10,7 +10,8 @@ body {
   margin: 0;
   padding: 0;
   font-family: Roboto, Arial, sans-serif;
-  background-color: HotPink;  /* Hot Pink is the default background color to help with debug */
+  background-color: HotPink;  /* default background color when debugging */
+  background-color: rgb(244, 237, 241);
 }
 li {
   list-style: none;
